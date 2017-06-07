@@ -22,11 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="SpringAccessingTwitterAPI" />
+        <module name="gs-accessing-twitter" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="SpringAccessingTwitterAPI" target="1.8" />
+      <module name="gs-accessing-twitter" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
